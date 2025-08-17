@@ -124,19 +124,3 @@ public class LlamaParse {
         }
     }
 }
-
-// Dependencies (add to your pom.xml):
-/*
-<dependencies>
-    <dependency>
-        <groupId>com.squareup.okhttp3</groupId>
-        <artifactId>okhttp</artifactId>
-        <version>4.12.0</version>
-    </dependency>
-    <dependency>
-        <groupId>com.fasterxml.jackson.core</groupId>
-        <artifactId>jackson-databind</artifactId>
-        <version>2.16.1</version>
-    </dependency>
-</dependencies>
-*/
