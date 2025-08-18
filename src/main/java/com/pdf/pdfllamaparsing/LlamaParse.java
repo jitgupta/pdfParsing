@@ -26,7 +26,7 @@ public class LlamaParse {
         LlamaParse parser = new LlamaParse();
         System.out.println("LlamaParse started...");
         try {
-            String filePath = "D:/PurchaseInvoice.pdf";
+            String filePath = "src/main/resources/PurchaseInvoice.pdf";
 
             // Check if file exists
             File pdfFile = new File(filePath);
